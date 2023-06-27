@@ -60,11 +60,6 @@ google_analytics:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
     cache_path: # the local PV cache data, friendly to visitors from GFW region
 
-cloudflare_analytics:
-  token: ee1ff6f32bee4518a50923d349de1bd4
-  # fill in your Cloudflare Web Analytics token
-  # You get this from the Cloudflare dashboard
-
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
