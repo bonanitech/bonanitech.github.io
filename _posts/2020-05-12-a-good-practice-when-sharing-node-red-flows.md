@@ -9,7 +9,7 @@ So you've created an amazing flow, and now you want to share it with the world. 
 
 It's important to keep that in mind, especially when you are sharing flows with Home Assistant nodes. Nobody wants to end up with multiple server nodes by mistake.
 
-![servers]({{ "/assets/img/Screen Shot 2020-04-25 at 2.15.13 PM.png" | absolute_url }})
+![servers](/assets/img/Screen Shot 2020-04-25 at 2.15.13 PM.png)
 
 <br />
 

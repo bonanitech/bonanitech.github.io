@@ -46,4 +46,4 @@ An alternative way to achieve this is to place a `weblink` in a Lovelace entitie
 
 <br />
 
-![States]({{ "/assets/img/2018-10-31-states.png" | absolute_url }})
+![States](/assets/img/2018-10-31-states.png)

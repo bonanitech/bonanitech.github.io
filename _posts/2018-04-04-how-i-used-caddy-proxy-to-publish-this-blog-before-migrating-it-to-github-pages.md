@@ -37,7 +37,7 @@ I use [Cloudflare](https://www.cloudflare.com) to manage my domain. All I had to
 
 <br />
 
-![Cloudflare]({{ "/assets/img/cloudflare.jpg" | absolute_url }})
+![Cloudflare](/assets/img/cloudflare.jpg)
 
 <br />
 

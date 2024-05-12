@@ -18,7 +18,7 @@ On the FreePBX server, all incoming calls are redirected to a Ring Group contain
 
 <br />
 
-![FreePBX Ring Group]({{ "/assets/img/Screenshot-2018-03-21-13.47.34.png" | absolute_url }})
+![FreePBX Ring Group](/assets/img/Screenshot-2018-03-21-13.47.34.png)
 
 <br />
 

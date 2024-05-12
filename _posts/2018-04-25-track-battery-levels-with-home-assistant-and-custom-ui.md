@@ -115,13 +115,13 @@ Here are some samples of the output.
 
 <br />
 
-![Battery Levels]({{ "/assets/img/Screenshot 2018-04-25 11.26.52.png" | absolute_url }})
+![Battery Levels](/assets/img/Screenshot 2018-04-25 11.26.52.png)
 
-![Battery Levels]({{ "/assets/img/Screenshot 2018-04-25 11.26.58.png" | absolute_url }})
+![Battery Levels](/assets/img/Screenshot 2018-04-25 11.26.58.png)
 
-![Battery Levels]({{ "/assets/img/Screenshot 2018-04-25 11.27.09.png" | absolute_url }})
+![Battery Levels](/assets/img/Screenshot 2018-04-25 11.27.09.png)
 
-![Battery Levels]({{ "/assets/img/Screenshot 2018-04-25 11.27.16.png" | absolute_url }})
+![Battery Levels](/assets/img/Screenshot 2018-04-25 11.27.16.png)
 
 <br />
 

@@ -51,11 +51,11 @@ This generates two views \(both visible\). When I call the \"Hide Second View\"
 
 <br />
 
-![]({{ "/assets/img/Screenshot-2018-03-15-20.25.38-e1521161151544.png" | absolute_url }})
+![](/assets/img/Screenshot-2018-03-15-20.25.38-e1521161151544.png)
 
 <br />
 
-![]({{ "/assets/img/Screenshot-2018-03-15-20.25.36-e1521161174731.png" | absolute_url }})
+![](/assets/img/Screenshot-2018-03-15-20.25.36-e1521161174731.png)
 
 <br />
 

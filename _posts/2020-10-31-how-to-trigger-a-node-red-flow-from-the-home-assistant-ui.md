@@ -18,7 +18,7 @@ First, in Node-RED, we need to add an `entity` node to the flow.
 
 <br />
 
-![entity-node]({{ "/assets/img/2020-10-31-entity-node.png" | absolute_url }})
+![entity-node](/assets/img/2020-10-31-entity-node.png)
 
 <br />
 
@@ -26,7 +26,7 @@ Change its type to switch, and add a name in the Home Assistant Config section.
 
 <br />
 
-![edit-entity-node]({{ "/assets/img/2020-10-31-edit-entity-node.png" | absolute_url }})
+![edit-entity-node](/assets/img/2020-10-31-edit-entity-node.png)
 
 <br />
 
@@ -34,7 +34,7 @@ Then we can connect our flow to the first output of the node.
 
 <br />
 
-![flow]({{ "/assets/img/2020-10-31-flow.png" | absolute_url }})
+![flow](/assets/img/2020-10-31-flow.png)
 
 <br />
 
@@ -61,7 +61,7 @@ This will create the button below.
 
 <br />
 
-![button]({{ "/assets/img/2019-07-14-button.png" | absolute_url }})
+![button](/assets/img/2019-07-14-button.png)
 
 <br />
 

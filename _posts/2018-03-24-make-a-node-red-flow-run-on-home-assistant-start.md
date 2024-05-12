@@ -14,7 +14,7 @@ We start in Node-RED with an HTTP node.
 
 <br />
 
-![]({{ "/assets/img/Screenshot-2018-03-24-14.05.48.png" | absolute_url }})
+![](/assets/img/Screenshot-2018-03-24-14.05.48.png)
 
 <br />
 
@@ -22,7 +22,7 @@ Then we edit it to listen to `/hastart`{: .filepath} and choose a name.
 
 <br />
 
-![]({{ "/assets/img/Screenshot-2018-03-24-14.05.57.png" | absolute_url }})
+![](/assets/img/Screenshot-2018-03-24-14.05.57.png)
 
 <br />
 
@@ -30,7 +30,7 @@ This will result in this node which you can insert in your flow and/or create a 
 
 <br />
 
-![]({{ "/assets/img/Screenshot-2018-03-24-14.06.03.png" | absolute_url }})
+![](/assets/img/Screenshot-2018-03-24-14.06.03.png)
 
 <br />
 
@@ -62,7 +62,7 @@ I've just found a simpler and better way to do that. All we need is a status nod
 
 <br />
 
-![]({{ "/assets/img/Screenshot 2018-07-09 12.06.44.png" | absolute_url }})
+![](/assets/img/Screenshot 2018-07-09 12.06.44.png)
 
 <br />
 
@@ -122,7 +122,7 @@ For those using `node-red-contrib-home-assistant-websocket` (installed by defaul
 
 <br />
 
-![]({{ "/assets/img/Screen Shot 2020-09-26 at 7.58.33 PM.png" | absolute_url }})
+![](/assets/img/Screen Shot 2020-09-26 at 7.58.33 PM.png)
 
 <br />
 

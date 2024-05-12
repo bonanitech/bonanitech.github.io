@@ -16,7 +16,7 @@ This works great, but the caveat is that you have to have one sequence for each 
 
 I started looking for a way to have only one sequence for all the tracked devices, after some time (with some hits and many, many misses) this is what I came out with.
 
-![Template Sequence]({{ "/assets/img/2018-11-14-template_sequence.png" | absolute_url }})
+![Template Sequence](/assets/img/2018-11-14-template_sequence.png)
 
 The JSON code of this sequence is available <a href="/files/making-home-assistants-presence-detection-not-so-binary-node-red-version-v1.json" download target="_blank">here</a>.
 
@@ -60,7 +60,7 @@ And in Node-RED an `events: state` node that should be connected to the change n
 
 <br />
 
-![Homer]({{ "/assets/img/2018-11-14-homer_node.png" | absolute_url }})
+![Homer](/assets/img/2018-11-14-homer_node.png)
 
 <br />
 
@@ -97,7 +97,7 @@ input_select:
 
 <br />
 
-![Marge]({{ "/assets/img/2018-11-14-marge_node.png" | absolute_url }})
+![Marge](/assets/img/2018-11-14-marge_node.png)
 
 <br />
 
@@ -105,11 +105,11 @@ The final result should be something like this:
 
 <br />
 
-![Node-RED]({{ "/assets/img/2018-11-14-node-red.png" | absolute_url }})
+![Node-RED](/assets/img/2018-11-14-node-red.png)
 
 <br />
 
-![Home Assistant]({{ "/assets/img/2018-11-14-home-assistant.png" | absolute_url }})
+![Home Assistant](/assets/img/2018-11-14-home-assistant.png)
 
 <br />
 
@@ -123,7 +123,7 @@ Since its [version 0.3.0](https://github.com/zachowj/node-red-contrib-home-assis
 
 This means that we can remove almost all of the template nodes used in the original sequence and move their content to the call service nodes right after them.
 
-![Template Sequence]({{ "/assets/img/2018-11-14-template_sequence_v2.png" | absolute_url }})
+![Template Sequence](/assets/img/2018-11-14-template_sequence_v2.png)
 
 The JSON code of this sequence is available <a href="/files/making-home-assistants-presence-detection-not-so-binary-node-red-version-v2.json" download target="_blank">here</a>.
 
@@ -133,7 +133,7 @@ The JSON code of this sequence is available <a href="/files/making-home-assistan
 
 Here's the most recent version of the sequence. Now I'm using the `person` integration to track people. If you're using `device_tracker`, remember to change the first and third nodes according to your needs.
 
-![Template Sequence]({{ "/assets/img/2018-11-14-template_sequence_v3.png" | absolute_url }})
+![Template Sequence](/assets/img/2018-11-14-template_sequence_v3.png)
 
 The JSON code of this sequence is available <a href="/files/making-home-assistants-presence-detection-not-so-binary-node-red-version-v3.json" download target="_blank">here</a>.
 
@@ -145,7 +145,7 @@ A reader made me aware of an issue in the sequence when using the `zone` integra
 
 Here's the sequence with a fix for this issue.
 
-![Template Sequence]({{ "/assets/img/2018-11-14-template_sequence_v4.png" | absolute_url }})
+![Template Sequence](/assets/img/2018-11-14-template_sequence_v4.png)
 
 The JSON code of this sequence is available <a href="/files/making-home-assistants-presence-detection-not-so-binary-node-red-version-v4.json" download target="_blank">here</a>.
 
@@ -157,7 +157,7 @@ Thank you, [CamelY0](https://disqus.com/by/camely0/), for finding, reporting, an
 
 This sequence went through a diet. Now we no longer need the "rbe" and "template" nodes in it, nor do we need to use the "change" nodes to reset the timers.
 
-![Template Sequence]({{ "/assets/img/2018-11-14-template_sequence_v5.png" | absolute_url }})
+![Template Sequence](/assets/img/2018-11-14-template_sequence_v5.png)
 
 The JSON code of this sequence is available <a href="/files/making-home-assistants-presence-detection-not-so-binary-node-red-version-v5.json" download target="_blank">here</a>.
 
@@ -169,7 +169,7 @@ Always the `zones`! 🤦🏼‍♂️
 
 The issue mentioned on May 01, 2020 (see [above](#update---may-01-2020)) found its way in again. Here's the sequence with the fix.
 
-![Template Sequence]({{ "/assets/img/2018-11-14-template_sequence_v6.png" | absolute_url }})
+![Template Sequence](/assets/img/2018-11-14-template_sequence_v6.png)
 
 The JSON code of this sequence is available <a href="/files/making-home-assistants-presence-detection-not-so-binary-node-red-version-v6.json" download target="_blank">here</a>.
 
@@ -185,6 +185,6 @@ When I tried doing this, I soon noticed a problem. If I change my status to _Ext
 
 To fix that, I created this new flow (or set of flows).
 
-![Template Sequence]({{ "/assets/img/2022-05-05-template_sequence_v7.png" | absolute_url }})
+![Template Sequence](/assets/img/2022-05-05-template_sequence_v7.png)
 
 The JSON code of this sequence is available <a href="/files/making-home-assistants-presence-detection-not-so-binary-node-red-version-v7.json" download target="_blank">here</a>.

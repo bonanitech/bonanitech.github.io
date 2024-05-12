@@ -37,7 +37,7 @@ Then in Node-RED.
 
 <br />
 
-![flow]({{ "/assets/img/2019-07-14-flow.png" | absolute_url }})
+![flow](/assets/img/2019-07-14-flow.png)
 
 <br />
 
@@ -45,7 +45,7 @@ The `events: all` node checks only events of type `call_service`.
 
 <br />
 
-![events]({{ "/assets/img/2019-07-14-events.png" | absolute_url }})
+![events](/assets/img/2019-07-14-events.png)
 
 <br />
 
@@ -53,7 +53,7 @@ The `switch` node checks which `script` was called.
 
 <br />
 
-![switch]({{ "/assets/img/2019-07-14-switch.png" | absolute_url }})
+![switch](/assets/img/2019-07-14-switch.png)
 
 <br />
 
@@ -61,7 +61,7 @@ The `call-service` node turns on my bedroom ceiling lights in a 30 seconds trans
 
 <br />
 
-![call-service]({{ "/assets/img/2019-07-14-call-service.png" | absolute_url }})
+![call-service](/assets/img/2019-07-14-call-service.png)
 
 <br />
 
@@ -69,7 +69,7 @@ When I press the button (below) in the UI or say "Hey Google, good morning" [^1]
 
 <br />
 
-![button]({{ "/assets/img/2019-07-14-button.png" | absolute_url }})
+![button](/assets/img/2019-07-14-button.png)
 
 <br />
 

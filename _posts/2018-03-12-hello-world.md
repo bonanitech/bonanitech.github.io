@@ -5,7 +5,7 @@ date: 2018-03-12 13:00:00 -0300
 permalink: /hello-world/
 ---
 <!-- markdownlint-disable html -->
-![Hello World]({{ "/assets/img/helloworld.png" | absolute_url }})
+![Hello World](/assets/img/helloworld.png)
 
 <br />
 

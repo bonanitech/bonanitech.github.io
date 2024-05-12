@@ -42,7 +42,7 @@ customize:
 
 <br />
 
-![Using the group component]({{ "/assets/img/Screenshot-2018-03-11-17.05.39-1.png" | absolute_url }})
+![Using the group component](/assets/img/Screenshot-2018-03-11-17.05.39-1.png)
 
 <br />
 
@@ -50,7 +50,7 @@ When you click/tap on the name (or icon) of the group, Home Assistant displays t
 
 <br />
 
-![Group component - attributes and controls]({{ "/assets/img/Screenshot-2018-03-11-17.05.54-1.png" | absolute_url }})
+![Group component - attributes and controls](/assets/img/Screenshot-2018-03-11-17.05.54-1.png)
 
 <br />
 
@@ -110,11 +110,11 @@ group:
 
 <br />
 
-![Using the switch component]({{ "/assets/img/Screenshot-2018-03-11-17.06.16-1.png" | absolute_url }})
+![Using the switch component](/assets/img/Screenshot-2018-03-11-17.06.16-1.png)
 
 <br />
 
-![Switch component - attributes and controls]({{ "/assets/img/Screenshot-2018-03-11-17.06.20-1.png" | absolute_url }})
+![Switch component - attributes and controls](/assets/img/Screenshot-2018-03-11-17.06.20-1.png)
 
 <br />
 
@@ -158,11 +158,11 @@ group:
 
 <br />
 
-![Using the new light group platform]({{ "/assets/img/Screenshot-2018-03-11-17.06.44-1.png" | absolute_url }})
+![Using the new light group platform](/assets/img/Screenshot-2018-03-11-17.06.44-1.png)
 
 <br />
 
-![Light group platform - attributes and controls]({{ "/assets/img/Screenshot-2018-03-11-17.07.15-1.png" | absolute_url }})
+![Light group platform - attributes and controls](/assets/img/Screenshot-2018-03-11-17.07.15-1.png)
 
 <br />
 

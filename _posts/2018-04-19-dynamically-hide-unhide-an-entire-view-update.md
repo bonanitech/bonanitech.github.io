@@ -13,7 +13,7 @@ Reddit user [/u/lordjustice17](https://www.reddit.com/user/lordjustice17) sent m
 
 <br />
 
-![]({{ "/assets/img/Screenshot 2018-04-19 12.23.34.png" | absolute_url }})
+![](/assets/img/Screenshot 2018-04-19 12.23.34.png)
 
 <br />
 

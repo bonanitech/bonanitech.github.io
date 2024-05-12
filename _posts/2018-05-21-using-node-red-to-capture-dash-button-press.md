@@ -21,7 +21,7 @@ Based on what's written there I created the following subflow.
 
 <br />
 
-![Subflow]({{ "/assets/img/Screenshot 2018-05-21 18.28.57.png" | absolute_url }})
+![Subflow](/assets/img/Screenshot 2018-05-21 18.28.57.png)
 
 <br />
 
@@ -129,7 +129,7 @@ The switch node has two outputs, one for each one of the buttons I use. You'll n
 
 <br />
 
-![Switch Node]({{ "/assets/img/Screenshot 2018-05-21 18.29.18.png" | absolute_url }})
+![Switch Node](/assets/img/Screenshot 2018-05-21 18.29.18.png)
 
 <br />
 
@@ -137,7 +137,7 @@ After that I just created the following flow connecting each output to its respe
 
 <br />
 
-![Flow]({{ "/assets/img/Screenshot 2018-05-21 18.29.45.png" | absolute_url }})
+![Flow](/assets/img/Screenshot 2018-05-21 18.29.45.png)
 
 <br />
 
@@ -145,7 +145,7 @@ If you're curious, these are the switches I currently use.
 
 <br />
 
-![Dash - Bedroom Lights]({{ "/assets/img/Screenshot 2018-05-21 18.29.48.png" | absolute_url }})
+![Dash - Bedroom Lights](/assets/img/Screenshot 2018-05-21 18.29.48.png)
 
 <br />
 
@@ -169,7 +169,7 @@ switch:
 
 <br />
 
-![Dash - Livingroom Lights]({{ "/assets/img/Screenshot 2018-05-21 18.29.53.png" | absolute_url }})
+![Dash - Livingroom Lights](/assets/img/Screenshot 2018-05-21 18.29.53.png)
 
 <br />
 

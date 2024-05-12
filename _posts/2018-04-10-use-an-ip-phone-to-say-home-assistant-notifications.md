@@ -11,11 +11,11 @@ The way I did it was creating a Paging Group on my FreePBX server.
 
 <br />
 
-![Paging and Intercom]({{ "/assets/img/Screenshot 2018-04-08 19.51.40.png" | absolute_url }})
+![Paging and Intercom](/assets/img/Screenshot 2018-04-08 19.51.40.png)
 
 <br />
 
-![Page Group]({{ "/assets/img/Screenshot 2018-04-08 19.51.49.png" | absolute_url }})
+![Page Group](/assets/img/Screenshot 2018-04-08 19.51.49.png)
 
 <br />
 

@@ -161,4 +161,4 @@ And here is the result.
 
 <br />
 
-![]({{ "/assets/img/groups.gif" | absolute_url }})
+![](/assets/img/groups.gif)
