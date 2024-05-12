@@ -42,7 +42,7 @@ When I flick the light switch, the relay in the Shelly 1 toggles, turning the li
 
 Some time ago, I got a [Wyze Sense Starter Kit](https://wyze.com/wyze-sense.html). This kit comes with a small motion sensor that I installed in a strategic place in the kitchen, added it to Home Assistant using this [custom component](https://github.com/kevinvincent/ha-wyzesense) created by [Kevin Vincent](https://github.com/kevinvincent), and then I created this Node-RED flow.
 
-![](/assets/img/Screen Shot 2020-05-21 at 11.08.09 AM.png)
+![](/assets/img/2020-05-23-initial-flow.png)
 
 The JSON code of this flow is available <a href="/files/motion-activated-lights-with-switch-override.json" download target="_blank">here</a>.
 
@@ -58,6 +58,6 @@ If the light is turned on using the wall switch, the node that monitors the moti
 
 Adding one more node to the flow you can turn off the light from the frontend and it will re-enable the trigger node (if needed) and reset the current countdown.
 
-![](/assets/img/Screen Shot 2020-05-21 at 11.08.21 AM.png)
+![](/assets/img/2020-05-23-bonus-flow.png)
 
 The JSON code of this flow is available <a href="/files/motion-activated-lights-with-switch-override-bonus.json" download target="_blank">here</a>.

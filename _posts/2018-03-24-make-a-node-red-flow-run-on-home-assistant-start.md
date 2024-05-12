@@ -122,7 +122,7 @@ For those using `node-red-contrib-home-assistant-websocket` (installed by defaul
 
 <br />
 
-![](/assets/img/Screen Shot 2020-09-26 at 7.58.33 PM.png)
+![](/assets/img/2018-03-24-update-2020-09-26.png)
 
 <br />
 

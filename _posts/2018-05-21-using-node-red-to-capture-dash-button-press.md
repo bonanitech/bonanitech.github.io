@@ -13,7 +13,7 @@ If, like me, you are frustrated by the inability to install certain add-ons in t
 
 One of the add-ons I was missing the most was [Dasher](https://github.com/james-fry/hassio-addons/tree/master/dasher) because I use [Dash Buttons](https://www.amazon.com/ddb/learn-more) to control some scenes in my house.
 
-As I do not have the patience to wait for the next versions of <s>Hass.io</s> the add-on \(which may or may not solve the problem\) I started searching and found [Amazon Dash Button with Node-RED built-in nodes](http://solarhinted.blogspot.com/2017/07/amazon-dash-button-with-node-red-built.html).
+As I do not have the patience to wait for the next versions of <s>Hass.io</s> the add-on \(which may or may not solve the problem\) I started searching and found [Amazon Dash Button with Node-RED built-in nodes](https://solarhinted.blogspot.com/2017/07/amazon-dash-button-with-node-red-built.html).
 
 This article explains everything textually so I decided to prepare something more visual to make it easier to understand it.
 
