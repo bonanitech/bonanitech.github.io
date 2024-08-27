@@ -69,7 +69,7 @@ analytics:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
   cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
+    id: dw2U6-4AkLH6fGUX90Z9Di8PpTBTOgw5FTO_2aex # fill in your Cloudflare Web Analytics token
 
 # Pageviews settings
 pageviews:
