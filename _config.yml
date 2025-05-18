@@ -85,8 +85,8 @@ pageviews:
 #
 # Available options:
 #
-#     light - Use the light color scheme
-#     dark - Use the dark color scheme
+#     light — Use the light color scheme
+#     dark — Use the dark color scheme
 #
 theme_mode: # [light | dark]
 
@@ -112,7 +112,6 @@ comments:
   provider: disqus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
-    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
     shortname: bonanitech
   # utterances settings › https://utteranc.es/
   utterances:
@@ -213,8 +212,9 @@ exclude:
   - tools
   - README.md
   - LICENSE
+  - purgecss.js
   - "*.config.js"
-  - package*.json
+  - "package*.json"
 
 jekyll-archives:
   enabled: [categories, tags]
